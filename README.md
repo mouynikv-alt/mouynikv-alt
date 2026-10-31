@@ -11,18 +11,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Mouynik%20Vin&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descAlignY=65&descSize=20" width="100%" alt="Mouynik Vin header" />
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/mouynikv-alt">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Mouynik+Vin;%F0%9F%92%BB+I+build+things+for+the+web;%F0%9F%9A%80+Turning+ideas+into+code;%E2%9C%A8+Let's+build+something+great+together" alt="Typing animation" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00b8d4&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=203a43" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=mouynikv-alt&label=Profile%20Views&color=00b8d4&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/mouynikv-alt?style=for-the-badge&logo=github&color=203a43" alt="followers" />
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/mouynikv-alt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -33,7 +33,7 @@
 
 <div align="center"> <img src="assets/header.svg" width="100%" alt="Mouynik Vin - Student, Tech Enthusiast, Competition Achiever - Phnom Penh, Cambodia" /> <br/>
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0b0818?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0b0818?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0b0818?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a> <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-0b0818?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Views&color=ff9a3d&style=for-the-badge" />
+<a href="https://github.com/mouynikv-alt"><img src="https://img.shields.io/badge/GitHub-0b0818?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0b0818?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0b0818?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a> <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-0b0818?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a> <img src="https://komarev.com/ghpvc/?username=mouynikv-alt&label=Views&color=ff9a3d&style=for-the-badge" />
 
 </div>
 
