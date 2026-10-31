@@ -14,7 +14,49 @@
 </div>
 
 
-**Student · Tech Enthusiast · Competition Achiever** — Phnom Penh, Cambodia 🇰🇭
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d3e,100:00d4aa&height=220&section=header&text=MOUYNIK%20VIN&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=%3E%20student%20%7C%20coder%20%7C%20builder&descSize=20&descAlignY=60" width="100%" alt="Header"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00FF9C&background=0D111700&center=true&vCenter=true&width=700&height=50&lines=%3E+initializing+portfolio...;%3E+loading+skills%3A+C+%7C+C%2B%2B+%7C+Python;%3E+status%3A+always+learning;%3E+hello%2C+world.+I'm+Mouynik+%F0%9F%91%8B" alt="Terminal typing"/>
+</p>
+
+```bash
+$ ./boot_portfolio.sh
+
+[ OK ] Loading profile ................ Mouynik Vin
+[ OK ] Mounting skills ................ C, C++, Python
+[ OK ] Connecting to Sisters of Code .. connected
+[ OK ] Loading certificates ........... Siemens, WSU, YMO
+[ OK ] Checking passion for tech ...... 100%
+[ >> ] System ready. Welcome.
+```
+
+```text
+ ┌─────────────────────────────────────────────────────┐
+ │  mouynik@portfolio                                  │
+ │  ─────────────────────────────────────────────────  │
+ │  OS ........ Student v19.0                          │
+ │  Role ...... Tech Enthusiast | Competition Achiever │
+ │  Location .. Phnom Penh, Cambodia 🇰🇭                │
+ │  Langs ..... C · C++ · Python                       │
+ │  Tools ..... Solid Edge · Git · GitHub              │
+ │  Learning .. Web Design · Website Development       │
+ │  Status .... 🟢 Online · Open to opportunities       │
+ └─────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00FF9C?style=flat-square&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00FF9C?style=flat-square&logo=cplusplus&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-00FF9C?style=flat-square&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Solid%20Edge-00FF9C?style=flat-square&logo=siemens&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-00FF9C?style=flat-square&logo=git&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-00FF9C?style=flat-square&logo=github&logoColor=black"/>
+</p>
+
+---
 
 I'm a high school student passionate about technology, coding, and problem-solving. I enjoy building things, learning new skills, and taking on challenges with a team.
 
