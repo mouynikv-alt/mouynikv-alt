@@ -1,4 +1,4 @@
-<div align="center"> <img src="assets/header-sky.svg" width="100%" alt="Mouynik Vin - Student, Tech Enthusiast, Competition Achiever - Phnom Penh, Cambodia" /> <br/> <a href="https://readme-typing-svg.demolab.com"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=520&lines=Hello%2C+world!;Always+learning%2C+always+building;Turning+ideas+into+code" alt="Typing SVG" /> </a>
+<div align="center"> <img src="assets/header-sky%20(1).svg" width="100%" alt="Mouynik Vin - Student, Tech Enthusiast, Competition Achiever - Phnom Penh, Cambodia" /> <br/> <a href="https://readme-typing-svg.demolab.com"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=520&lines=Hello%2C+world!;Always+learning%2C+always+building;Turning+ideas+into+code" alt="Typing SVG" /> </a>
 
 <br/><br/>
 
