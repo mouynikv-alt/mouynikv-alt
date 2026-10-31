@@ -2,7 +2,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0a0620?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0a0620?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0a0620?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a> <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-0a0620?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Views&color=a855f7&style=for-the-badge" />
+<a href=“https://github.com/mouynikv-alt”><img src=“https://img.shields.io/badge/GitHub-0a0620?style=for-the-badge&logo=github&logoColor=white” /></a> <img src=“https://komarev.com/ghpvc/?username=mouynikv-alt&label=Views&color=a855f7&style=for-the-badge” />
 
 </div>
 
