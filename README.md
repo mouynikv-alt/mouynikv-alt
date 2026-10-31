@@ -1,9 +1,10 @@
-<div align="center"> <img src="assets/header-sky%20(1).svg" width="100%" alt="Mouynik Vin - Student, Tech Enthusiast, Competition Achiever - Phnom Penh, Cambodia" /> <br/> <a href="https://readme-typing-svg.demolab.com"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=520&lines=Hello%2C+world!;Always+learning%2C+always+building;Turning+ideas+into+code" alt="Typing SVG" /> </a>
-
+<div align=“center”>
+<img src=“header-sky%20(1).svg” width=“100%” alt=“Mouynik Vin” />
+<br/>
+<a href=“https://readme-typing-svg.demolab.com”><img src=“https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=520&lines=Hello%2C+world!;Always+learning%2C+always+building;Turning+ideas+into+code” alt=“Typing SVG” /></a>
 <br/><br/>
-
-<a href=“https://github.com/mouynikv-alt”><img src=“https://img.shields.io/badge/GitHub-0a0620?style=for-the-badge&logo=github&logoColor=white” /></a> <img src=“https://komarev.com/ghpvc/?username=mouynikv-alt&label=Views&color=a855f7&style=for-the-badge” />
-
+<a href=“https://github.com/mouynikv-alt”><img src=“https://img.shields.io/badge/GitHub-0a0620?style=for-the-badge&logo=github&logoColor=white” /></a>
+<img src=“https://komarev.com/ghpvc/?username=mouynikv-alt&label=Views&color=a855f7&style=for-the-badge” />
 </div>
 
 <div align="center">
