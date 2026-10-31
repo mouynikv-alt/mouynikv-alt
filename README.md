@@ -13,7 +13,77 @@
 
 </div>
 
-**Student · Tech Enthusiast · Competition Achiever** — Phnom Penh, Cambodia 🇰🇭
+<svg width="1000" height="300" viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0a0f1f"/>
+      <stop offset="1" stop-color="#1b1245"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+    <clipPath id="clip"><rect width="1000" height="300" rx="24"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="300" fill="url(#bg)"/>
+
+    <!-- floating glow orbs -->
+    <g filter="url(#blur)" opacity="0.6">
+      <circle cx="170" cy="70" r="100" fill="#22d3ee">
+        <animate attributeName="cx" values="170;280;170" dur="9s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="70;130;70" dur="9s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="560" cy="250" r="110" fill="#818cf8">
+        <animate attributeName="cx" values="560;470;560" dur="11s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="880" cy="70" r="100" fill="#f472b6">
+        <animate attributeName="cy" values="70;160;70" dur="10s" repeatCount="indefinite"/>
+        <animate attributeName="cx" values="880;800;880" dur="10s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- subtle grid -->
+    <g stroke="#ffffff" stroke-opacity="0.04">
+      <path d="M0 60H1000M0 120H1000M0 180H1000M0 240H1000"/>
+      <path d="M100 0V300M200 0V300M300 0V300M400 0V300M500 0V300M600 0V300M700 0V300M800 0V300M900 0V300"/>
+    </g>
+
+    <!-- glass border -->
+    <rect x="0.5" y="0.5" width="999" height="299" rx="23.5" stroke="#ffffff" stroke-opacity="0.15"/>
+
+    <!-- text -->
+    <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+      <text x="500" y="70" font-size="16" fill="#94a3b8" letter-spacing="6" opacity="0">
+        HELLO, I'M
+        <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
+      </text>
+      <text x="500" y="155" font-size="78" font-weight="800" fill="url(#name)" opacity="0">
+        Mouynik Vin
+        <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="1s" fill="freeze"/>
+      </text>
+      <text x="500" y="202" font-size="22" fill="#e2e8f0" opacity="0">
+        Student · Tech Enthusiast · Competition Achiever
+        <animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="1s" fill="freeze"/>
+      </text>
+    </g>
+
+    <!-- location pill -->
+    <g opacity="0">
+      <rect x="378" y="228" width="244" height="38" rx="19" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.2"/>
+      <circle cx="408" cy="247" r="5" fill="#22d3ee">
+        <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="425" y="253" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#e2e8f0">Phnom Penh, Cambodia</text>
+      <animate attributeName="opacity" from="0" to="1" begin="1.1s" dur="1s" fill="freeze"/>
+    </g>
+  </g>
+</svg>
 
 I'm a high school student passionate about technology, coding, and problem-solving. I enjoy building things, learning new skills, and taking on challenges with a team.
 
