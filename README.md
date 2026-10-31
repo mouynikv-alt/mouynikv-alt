@@ -12,7 +12,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
 
 </div>
-# 👋 Hi, I'm Mouynik Vin
+
 
 **Student · Tech Enthusiast · Competition Achiever** — Phnom Penh, Cambodia 🇰🇭
 
@@ -22,12 +22,35 @@ I'm a high school student passionate about technology, coding, and problem-solvi
 
 ## 🎓 Education
 
-| Years | School |
-|-------|--------|
-| 2023 – 2025 | New Generation of Preah Yukunthor High School |
-| 2022 – 2023 | Jayavarman7 High School |
-| 2019 – 2022 | KoKi Secondary High School |
-| 2014 – 2019 | Deieth Primary School |
+<table>
+  <tr>
+    <th align="center">📅 Years</th>
+    <th align="left">🏫 School</th>
+    <th align="center">📚 Level</th>
+  </tr>
+  <tr>
+    <td align="center"><b>2023 – 2025</b></td>
+    <td><b>New Generation of Preah Yukunthor High School</b></td>
+    <td align="center">🎓 High School</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2022 – 2023</b></td>
+    <td><b>Jayavarman7 High School</b></td>
+    <td align="center">📘 Secondary</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2019 – 2022</b></td>
+    <td><b>KoKi Secondary High School</b></td>
+    <td align="center">📘 Secondary</td>
+  </tr>
+  <tr>
+    <td align="center"><b>2014 – 2019</b></td>
+    <td><b>Deieth Primary School</b></td>
+    <td align="center">✏️ Primary</td>
+  </tr>
+</table>
+
+> 🌟 *Always learning, always growing — from primary school to tech competitions.*
 
 ---
 
