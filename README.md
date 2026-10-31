@@ -156,15 +156,54 @@ Practice programs I wrote while learning C, C++, and Python.
 
 ## 🛠️ Skills
 
-| Area | Details |
-|------|---------|
-| Programming | C, C++, Python |
-| Python libraries | `turtle`, `tkinter`, `random` |
-| Web | Web design and website development (learning) |
-| 3D design | Solid Edge (certified) |
-| Engineering | Robotics, hands-on building |
-| Academic | Mathematics, English |
-| Soft skills | Teamwork, problem-solving, leadership, innovation |
+```python
+# skills.py
+class Mouynik:
+    name = "Mouynik Vin"
+    languages = ["C", "C++", "Python"]
+    libraries = ["turtle", "tkinter", "random"]
+    design    = "Solid Edge (Siemens certified)"
+    learning  = ["Web design", "Website development"]
+    soft      = ["Teamwork", "Problem-solving", "Leadership", "Innovation"]
+
+print("Status: always learning 🚀")
+```
+
+### 💻 Programming
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+### 📊 Skill Level
+
+```text
+C ..................  ████████░░  80%
+C++ ................  ███████░░░  70%
+Python .............  ████████░░  80%
+Web Design .........  █████░░░░░  50%   (learning)
+Solid Edge (3D) ....  ████████░░  80%
+Robotics ...........  ███████░░░  70%
+Mathematics ........  █████████░  90%
+English ............  █████████░  90%
+```
+
+### 🧩 Other Skills
+
+<table>
+  <tr>
+    <td align="center">🤖<br/><b>Engineering</b><br/>Robotics &amp; hands-on building</td>
+    <td align="center">📐<br/><b>3D Design</b><br/>Solid Edge (certified)</td>
+    <td align="center">🧮<br/><b>Academic</b><br/>Mathematics &amp; English</td>
+    <td align="center">🤝<br/><b>Soft Skills</b><br/>Teamwork, leadership, innovation</td>
+  </tr>
+</table>
 
 ---
 
