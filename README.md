@@ -1,38 +1,11 @@
+<div align="center"> <img src="assets/header-sky.svg" width="100%" alt="Mouynik Vin - Student, Tech Enthusiast, Competition Achiever - Phnom Penh, Cambodia" /> <br/> <a href="https://readme-typing-svg.demolab.com"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=520&lines=Hello%2C+world!;Always+learning%2C+always+building;Turning+ideas+into+code" alt="Typing SVG" /> </a>
 
-update my header read.me in my profile github with best effect header
+<br/><br/>
 
-Here’s a header for your GitHub profile README.md with an animated wave banner and a typing effect. Replace the whole top of your file with it:
-
-markdown
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Mouynik%20Vin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=58&descSize=18" alt="header banner" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hello%2C+world!;%F0%9F%92%BB+Developer+%26+Problem+Solver;%F0%9F%9A%80+Always+learning%2C+always+building" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0a0620?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0a0620?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0a0620?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a> <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-0a0620?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Views&color=a855f7&style=for-the-badge" />
 
 </div>
 
-Before you commit:
-
-Replace YOUR_USERNAME (three places) with your actual GitHub username.
-Edit the typing lines in lines=.... Separate lines with ; and use + for spaces. Put your real roles or interests there.
-Change the banner colors with customColorList=6,11,20. Try 0, 2, 12, or 24 for different gradients, or swap waving for venom, cylinder, or rect in type=.
-Your profile README must be in a repo named exactly like your username (YOUR_USERNAME/YOUR_USERNAME) and be public.
-
-If you share your tech stack, projects, and social links, I can build out the rest of the profile with skill badges, GitHub stats cards, and a contact section.
-
-update my header read.me in my profile github with best effect header
-
-I can’t access your GitHub account, so I can’t push the change myself. Here’s a stronger version to copy and paste into your profile README.md, replacing everything at the top.
-
-markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Mouynik%20Vin&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Lifelong%20Learner&descAlignY=65&descSize=20" width="100%" alt="Mouynik Vin header" />
