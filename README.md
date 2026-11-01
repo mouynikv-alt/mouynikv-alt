@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header-sky.svg" width="100%" alt="Mouynik Vin - Student, Tech Enthusiast, Competition Achiever - Phnom Penh, Cambodia" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02020a,50:2d1b69,100:7c3aed&height=260&section=header&text=Mouynik%20Vin&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Student%20%2F%20Tech%20Enthusiast%20%2F%20Competition%20Achiever&descAlignY=60&descSize=20" width="100%" alt="Mouynik Vin - Student, Tech Enthusiast, Competition Achiever" />
 
 <br/>
 
@@ -14,6 +14,30 @@
 
 </div>
 
+```bash
+$ ./boot_portfolio.sh
+
+[ OK ] Loading profile .. Mouynik Vin
+[ OK ] Mounting skills .. C, C++, Python
+[ OK ] Sisters of Code .. connected
+[ OK ] Certificates ..... Siemens, WSU, YMO
+[ OK ] Passion for tech . 100%
+[ >> ] System ready. Welcome.
+```
+
+```text
+mouynik@portfolio
+-----------------------------------
+OS ........ Student v19.0
+Role ...... Tech Enthusiast
+            Competition Achiever
+Location .. Phnom Penh, Cambodia
+Langs ..... C, C++, Python
+Tools ..... Solid Edge, Git, GitHub
+Learning .. Web Design, Websites
+Status .... Online, open to work
+-----------------------------------
+```
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00FF9C?style=flat-square&logo=c&logoColor=black" alt="C"/>
@@ -77,71 +101,39 @@ I'm a student passionate about technology, coding, and problem-solving. I enjoy 
 - Web design and website development
 - Problem-solving and building functional, visually appealing websites
 
+<!-- Remove this line and the closing line below after uploading images/sisters-of-code-certificate.jpg
 <p align="center">
   <img src="images/sisters-of-code-certificate.jpg" alt="Receiving my certificate at Sisters of Code Club" width="600"/>
   <br/><em>Receiving my certificate at Sisters of Code Club (2024 edition)</em>
 </p>
-
-
-
-<p align="center">
-  <img src="images/siemens-solid-edge-certificate.png" alt="Siemens Solid Edge Associate Level Certificate" width="600"/>
-</p>
-
-
-<p align="center">
-  <img src="images/wsu-innovation-challenge-certificate.jpg" alt="Western Sydney University Certificate of Completion" width="400"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
-### 📊 Skill Level
-
-```text
-C ................ ████████░░ 80%
-C++ .............. ███████░░░ 70%
-Python ........... ████████░░ 80%
-Web Design ....... █████░░░░░ 50%
-Solid Edge (3D) .. ████████░░ 80%
-Robotics ......... ███████░░░ 70%
-Mathematics ...... █████████░ 90%
-English .......... █████████░ 90%
-```
-
-### 🧩 Other Skills
-
-<table>
-  <tr>
-    <td align="center">🤖<br/><b>Engineering</b><br/>Robotics &amp; hands-on building</td>
-    <td align="center">📐<br/><b>3D Design</b><br/>Solid Edge (certified)</td>
-    <td align="center">🧮<br/><b>Academic</b><br/>Mathematics &amp; English</td>
-    <td align="center">🤝<br/><b>Soft Skills</b><br/>Teamwork, leadership, innovation</td>
-  </tr>
-</table>
+-->
 
 ---
 
-## 🌿 Hobbies
+## 🏆 Achievements
 
-I find joy in spending meaningful time with family and friends, often gathering by the riverside port to relax, share stories, and enjoy the peaceful atmosphere.
+- 🥇 1st place in English
+- 🥇 1st MPCL International Competition
+- 🏅 Sisters of Code 2025, Phnom Penh
+- 🏅 Western Sydney University Innovation Challenge 2024
+- 🏅 MPCH 2024
+- 🏅 YMO (Youth Mathematics Organization) 2024
+- 🏅 MOC 2025
+- 🎓 Graduation 3D, 2024
+- 🧮 NGS Math Club
+- 🧮 Outstanding Math Competition (Pass), 2022
 
 ---
 
-## 📬 Contact
+## 🚀 Featured Projects & Experience
 
-- 📧 Email: [mouynikv@gmail.com](mailto:mouynikv@gmail.com)
-- 📍 Location: Phnom Penh, Cambodia
+### 🤖 The Robot Project
+Studied and contributed to building a robot as part of a team, showcasing skills in **engineering, teamwork, and problem-solving**. Also worked on 3D modeling of the robot design.
+
+### 💡 Western Sydney University Innovation Challenge 2024
+Completed **Innovation Challenge 2024 – Powered by Launch Pad: AI for Impact** (Final Challenge Day, 16 October 2024, ACE Tuol Tom Poung). Worked with a team to develop and present an innovative idea.
+
+### 🌐 Sisters of Code
+Hands-on learning in coding and web development, preparing for future opportunities in the tech industry.
 
 ---
-
-> *"I believe in growing through meaningful connections, shared experiences, and staying true to what brings me joy — whether it's creating, learning, or simply spending time with loved ones. I look forward to new opportunities, challenges, and the chance to make a positive impact wherever I go."*
-
-⭐ Thanks for visiting my portfolio!
