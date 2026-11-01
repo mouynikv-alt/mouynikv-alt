@@ -14,30 +14,6 @@
 
 </div>
 
-```bash
-$ ./boot_portfolio.sh
-
-[ OK ] Loading profile .. Mouynik Vin
-[ OK ] Mounting skills .. C, C++, Python
-[ OK ] Sisters of Code .. connected
-[ OK ] Certificates ..... Siemens, WSU, YMO
-[ OK ] Passion for tech . 100%
-[ >> ] System ready. Welcome.
-```
-
-```text
-mouynik@portfolio
------------------------------------
-OS ........ Student v19.0
-Role ...... Tech Enthusiast
-            Competition Achiever
-Location .. Phnom Penh, Cambodia
-Langs ..... C, C++, Python
-Tools ..... Solid Edge, Git, GitHub
-Learning .. Web Design, Websites
-Status .... Online, open to work
------------------------------------
-```
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00FF9C?style=flat-square&logo=c&logoColor=black" alt="C"/>
